@@ -37,7 +37,7 @@ function App() {
       </ol>
       <form onSubmit={handleSubmit}>
         <div className="form-group">
-          <label for="nameAndSurname">Imię i nazwisko:</label>
+          <label htmlFor="nameAndSurname">Imię i nazwisko:</label>
           <input 
           type="test" 
           id="nameAndSurname" 
@@ -46,7 +46,7 @@ function App() {
           />
         </div>
         <div className="form-group">
-          <label for="courseNum">Numer kursu:</label>
+          <label htmlFor="courseNum">Numer kursu:</label>
           <input 
           type="number" 
           id="courseNum" 
@@ -54,7 +54,7 @@ function App() {
           onChange={handleCourseNumberInput}
           />
         </div>
-        <button type="submit" class="btn btn-primary">Zapisz do kursu</button>
+        <button type="submit" className="btn btn-primary">Zapisz do kursu</button>
       </form>
 
     </div>

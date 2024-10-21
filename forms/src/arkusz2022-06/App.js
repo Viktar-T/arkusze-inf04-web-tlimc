@@ -42,14 +42,14 @@ function App() {
 
       <form onSubmit={onSubmit}>
         <div className="form-group">
-          <label for="name-and-surname">Imie i nazwisko:</label>
+          <label htmlFor="name-and-surname">Imie i nazwisko:</label>
           <input onChange={onNameAndSurnameChange} 
             className="form-control" 
             type="text" 
             id="name-and-surname" />
         </div>
         <div className="form-group">
-          <label for="course-number" >Numer kursu:</label>
+          <label htmlFor="course-number" >Numer kursu:</label>
           <input onChange={onCourseNumChange}          
             className="form-control" 
             type="number" 
