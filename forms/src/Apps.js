@@ -8,6 +8,8 @@ import AppQuizMaker from './quiz-maker/App';
 
 import AppUcznie from './ucznie/App';
 
+import AppUseState from './use-state/App';
+
 const apps = [
     [App2022, "Rok 2022"], 
     [App2023, "Rok 2023"], 
@@ -15,7 +17,8 @@ const apps = [
     [AppDietPlaning, "Diet planing App"],
     [AppExpenseTracker, "Expense Tracker App"],
     [AppQuizMaker, "Quiz Maker App"],
-    [AppUcznie, "Sprawdzian"]
+    [AppUcznie, "Sprawdzian"],
+    [AppUseState, "useState App"]
 ]
 
 export default apps
