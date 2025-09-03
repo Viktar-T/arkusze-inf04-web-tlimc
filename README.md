@@ -15,7 +15,7 @@
   ```
 
 ## Przykłady
-1. **YouTube Tutorial**: [Create React App Tutorial](https://www.youtube.com/watch?v=COtrqVRwO7I)
+1. **YouTube Tutorial**: [INF.04-02-22.06-SG](https://www.youtube.com/watch?v=COtrqVRwO7I)
 2. **GitHub Examples**: [INF.04 Solutions](https://github.com/Technikum-TEB-Edukacja-we-Wroclawiu/INF.04-rozwiazania)
 
 ## Useful Links
