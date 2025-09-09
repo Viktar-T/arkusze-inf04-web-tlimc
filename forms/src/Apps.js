@@ -1,4 +1,4 @@
-import App2022 from './arkusz2022-06/App';
+import App2022 from './arkusz2022-06-youtube/App';
 import App2023 from './arkusz2023-06/App';
 
 import AppBook from './book-management/App';
